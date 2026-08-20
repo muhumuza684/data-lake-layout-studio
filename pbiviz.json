@@ -1,0 +1,26 @@
+{
+  "visual": {
+    "name": "FFLEXAD",
+    "displayName": "FFLEXAD",
+    "guid": "fflexad_ec19d007ef9345008f8d244d345f764b",
+    "visualClassName": "DataLakeTables",
+    "version": "1.0.0.1",
+    "description": "Configurable analytical design surface for typography, spacing, layout presets, and visual hierarchy.",
+    "supportUrl": "https://www.skibaanalytics.com/support",
+    "gitHubUrl": "https://github.com/muhumuza684/KIBA-powerbi-visuals"
+  },
+  "apiVersion": "5.3.0",
+  "author": {
+    "name": "Data Lake Visual Family",
+    "email": "hello@datalakevisuals.example"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "stringResources": [
+    "stringResources/en-US/resources.resjson"
+  ]
+}
