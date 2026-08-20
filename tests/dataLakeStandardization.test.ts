@@ -9,7 +9,7 @@ describe("FFLEXAD standardization", () => {
 
     test("uses the FFLEXAD identity", () => {
         expect(String(pbiviz.visual.name)).toBe("FFLEXAD");
-        expect(String(pbiviz.visual.displayName)).toBe("FFLEXAD");
+        expect(String(pbiviz.visual.displayName)).toBe("Data Lake Layout Studio");
         expect(renderer).toContain("FFLEXAD");
     });
 
