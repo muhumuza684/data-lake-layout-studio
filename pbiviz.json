@@ -1,28 +1,26 @@
 {
-    "visual":  {
-                   "name":  "FFLEXAD",
-                   "displayName":  "Data Lake Layout Studio",
-                   "guid":  "fflexad_ec19d007ef9345008f8d244d345f764b",
-                   "visualClassName":  "DataLakeTables",
-                   "version":  "1.0.0.1",
-                   "description":  "Configurable analytical presentation surface with layout presets, typography, spacing, hierarchy, and theme controls.",
-                   "supportUrl":  "https://www.skibaanalytics.com/support",
-                   "gitHubUrl":  "https://github.com/muhumuza684/KIBA-powerbi-visuals"
-               },
-    "apiVersion":  "5.3.0",
-    "author":  {
-                   "name":  "Data Lake Visual Family",
-                   "email":  "hello@datalakevisuals.example"
-               },
-    "assets":  {
-                   "icon":  "assets/icon.png"
-               },
-    "externalJS":  [
-
-                   ],
-    "style":  "style/visual.less",
-    "capabilities":  "capabilities.json",
-    "stringResources":  [
-                            "stringResources/en-US/resources.resjson"
-                        ]
+  "visual": {
+    "name": "FFLEXAD",
+    "displayName": "Data Lake Layout Studio",
+    "guid": "fflexad_ec19d007ef9345008f8d244d345f764b",
+    "visualClassName": "DataLakeTables",
+    "version": "1.0.0.1",
+    "description": "Configurable analytical presentation surface with layout presets, typography, spacing, hierarchy, and theme controls.",
+    "supportUrl": "https://github.com/muhumuza684/data-lake-layout-studio/issues",
+    "gitHubUrl": "https://github.com/muhumuza684/data-lake-layout-studio"
+  },
+  "apiVersion": "5.3.0",
+  "author": {
+    "name": "Data Lake Visual Family",
+    "email": "hello@datalakevisuals.example"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "stringResources": [
+    "stringResources/en-US/resources.resjson"
+  ]
 }
